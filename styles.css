@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+/* <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Home for now</title>
-    <link rel="stylesheet" type="text/css" href="styles/styles.css">
-
-    <style>
-     /* h1 {
+    <style> */
+     h1 {
          color: purple;
      }
 
@@ -48,7 +46,7 @@
      p.important {
        width: 75%;
      }
- */
+
 
 
      img {
@@ -63,10 +61,10 @@
 
 
      
-    </style>
-  </head>
-  <body>
-      <h1>Welcome</h1> 
+    /* </style> */
+  /* </head> */
+  /* <body> */
+      /* <h1>Welcome</h1> 
       <!-- <p>Everything is fine.</p> -->
       <p class="purple-text">Everything is fine.</p>
       <p class="important purple-text">No really, this is important.</p>
@@ -74,6 +72,6 @@
       <a href="http://storm.wnba.com">Nat'l WNBA Champs</a>
       <a href="https://t.co/V23azgEO9N?amp=1">Edge of Sports</a>
        <!-- 06.01.20 testing relative path locations, Works!! -->
-      <img src="../../../mdnLearn/champignons-par-adolphe-millot.jpg" alt="Test Image">
-</body>
-</html>
+      <img src="../../../mdnLearn/champignons-par-adolphe-millot.jpg" alt="Test Image"> */
+/* </body> */
+/* </html> */
